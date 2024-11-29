@@ -4,23 +4,23 @@
 ## Open a terminal (Command Prompt, PowerShell, or your IDE terminal).
 # Commands :  
 ```
-1. pip install numpy
+pip install numpy
 ```
 ```
-2. pip install pandas
+pip install pandas
 ```
 ```
-3. pip install matplotlib
+pip install matplotlib
 ```
 ```
-4. pip install seaborn
+pip install seaborn
 ```
 ```
-5. pip install tensorflow
+pip install tensorflow
 ```
 ```
-6. pip install keras
+pip install keras
 ```
 ```
-7. pip install scikit-learn
+pip install scikit-learn
 ```

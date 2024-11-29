@@ -5,11 +5,11 @@ This repository contains resources and notes for the courses in **Semester 5** o
 ---
 
 ## **Table of Contents**
-1. [Operating Systems (OS)](#operating-systems-os)
-2. [Database Management Systems (DBMS)](#database-management-systems-dbms)
-3. [Machine Learning (ML)](#machine-learning-ml)
-4. [Theory of Computation (TOC)](#theory-of-computation-toc)
-5. [Machine Learning Lab(ML Lab)](#machine-learning-lab-ml-lab)
+1. [Operating Systems (OS)]
+2. [Database Management Systems (DBMS)]
+3. [Machine Learning (ML)]
+4. [Theory of Computation (TOC)]
+5. [Machine Learning Lab(ML Lab)]
 
 ---
 

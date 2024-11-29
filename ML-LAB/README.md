@@ -2,7 +2,7 @@
 ## To run them on VS Code or Any other IDE make sure you download all the necessary modules/ libraries. 
 ## To do so run the following commands in your PC's Terminal.
 ## Open a terminal (Command Prompt, PowerShell, or your IDE terminal).
-# Commands :  
+## Commands :  
 ```
 pip install numpy
 ```
